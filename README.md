@@ -1,6 +1,6 @@
 ##  <h1>👋Hello World! <img align="right"  width="50%" src="https://user-images.githubusercontent.com/109758033/180307987-5595b296-9692-4027-bb3b-6db79294aae9.jpg"></h1>
 ### <p> Eu me chamo Lucas Muniz da Silva</p>
-### Bem vindo ao meu perfil no Github
+#### :slightly_smiling_face: Bem vindo ao meu perfil no Github
 :technologist:Sou estudante de sistemas para internet
 
 Estou aprendendo:
