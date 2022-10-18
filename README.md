@@ -6,7 +6,7 @@
 Estou aprendendo:
 - C
 - HTML5
-- CSS
+- CSS3
 - Javascript
 - PHP
 - Java
