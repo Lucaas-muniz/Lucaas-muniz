@@ -1,12 +1,29 @@
-##  Olá!! Eu sou o Lucas Muniz.
+###  Olá!! Eu sou o Lucas Muniz.
  ☺️ Bem vindo ao meu perfil!
-# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Lucaas-muniz=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-- C
-- HTML5
-- CSS3
-- Javascript
-- PHP
-- Java
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+ 
+ <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+          
+  
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+ 
+  <img align="center" alt="Lucas-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Lucas-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="Lucas-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  </div>
+
+### :fire: Github Status :
+<div align="center">
+  <a href="https://github.com/lucaas-muniz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaas-muniz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaas-muniz&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+
+
 
 :point_down: :point_down: Me encontre nas redes
 
